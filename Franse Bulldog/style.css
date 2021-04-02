@@ -1,0 +1,10 @@
+.jumbotron{
+    background-image: url("assets/brandon-hoogenboom-O1OxhrD_Y0I-unsplash.jpg");
+    color: white;
+    background-size: cover;
+}
+footer{
+    background-color: #002752;
+    color: white;
+    font-weight: bold;
+}
