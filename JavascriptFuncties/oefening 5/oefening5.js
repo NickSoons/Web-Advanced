@@ -6,10 +6,10 @@ function zinSplitsen(){
     let getal = parseInt(prompt("Geef een random getal in van 0 tot " + lengteZin));
 
     if (getal > lengteZin){
-        alert("Sorry, het opgegeven getal is groter dan de zin");
+        alert("Sorry, het opgegeven getal is groter dan de lengte van de zin");
     }
     else{
-        gesplitst = zin.split(" " , getal);
+        gesplitst = zin.slice(getal);
         alert(gesplitst);
     }
 }
