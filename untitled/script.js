@@ -1,0 +1,1 @@
+// array met een lus loopen zodat je het eruit kan halen --> puntnotatie

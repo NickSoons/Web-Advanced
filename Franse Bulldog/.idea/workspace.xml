@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad471b11-8a58-4c55-b177-9dbb9020f174" name="Default Changelist" comment="" />
+    <list default="true" id="ad471b11-8a58-4c55-b177-9dbb9020f174" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening1/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening1/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening1/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening1/oefening1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening1/oefening1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening2/oefening2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening2/oefening2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening3/oefening3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening3/oefening3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening4/oefening4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening4/oefening4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening5(herhalingsoefening)/oefening5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/oefening5(herhalingsoefening)/oefening5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1p0v9l5gPphvOY8QJWNbFV69DrM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +69,7 @@
       <workItem from="1614865049865" duration="45000" />
       <workItem from="1614865249920" duration="20000" />
       <workItem from="1615544113920" duration="94000" />
+      <workItem from="1619168707653" duration="202000" />
     </task>
     <servers />
   </component>
