@@ -15,3 +15,20 @@ function grootsteGetal(){
     console.log(grootsteGetal);
 }
 grootsteGetal();
+
+
+// oplossing met parameter
+// let grootsteGetal = 0;
+// let inputBezoeker = prompt("Geef een geheel getal (boven 0) in of, vanaf poging twee, het woord \'stop\'.");
+// do
+//     console.log(grootsteNummer(inputBezoeker));
+// }
+// while (inputBezoeker.toUpperCase() !== "STOP");
+// function grootsteNummer(inputBezoeker) {
+//     if (parseInt(inputBezoeker) > grootsteGetal) {
+//         grootsteGetal = inputBezoeker;
+//         return grootsteGetal;
+//     }
+// else {
+//         return grootsteGetal;
+//     }
