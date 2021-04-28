@@ -7,12 +7,12 @@ let klanten = [
 ];
 
 // oefening 1
-function filterGenk(klanten){
+function filterGenk(){
     if (klanten.stad === "Genk"){
         let personenGenk = Object.values(klanten);
+        console.log(personenGenk);
     }
 }
 
 //aanroepen functie 1
-filterGenk(klanten);
-console.log(personenGenk);
+filterGenk();
