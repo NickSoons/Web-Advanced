@@ -1,0 +1,6 @@
+1. document.getElementsByClassName("randomtekst");
+2. document.getElementsByTagName("img");
+3. document.querySelectorAll("p.specialetekst");
+document.getElementsByTagName("p")[4];
+document.querySelectorAll("p")[4];
+document.querySelectorAll("p.randomtekst")[1];

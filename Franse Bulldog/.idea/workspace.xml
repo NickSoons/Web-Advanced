@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad471b11-8a58-4c55-b177-9dbb9020f174" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavascriptDeel4/oefening3/oefening3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptDeel4/oefening4/oefening4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptDeel4/oefening4/oefening4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptEvents/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptEvents/oefening1/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptEvents/oefening1/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptEvents/oefening1/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptEvents/oefening1/oefening1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptEvents/oefening1/oefening1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptEvents/oefening1/oefening1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptEvents/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavascriptEvents/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavascriptDeel4/oefening1/oplossing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavascriptDeel4/oefening1/oplossing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavascriptDeel4/oefening3/oefening3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavascriptDeel4/oefening3/oefening3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +44,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavascriptObjecten" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -57,6 +71,7 @@
       <workItem from="1619168707653" duration="202000" />
       <workItem from="1619534525554" duration="96000" />
       <workItem from="1619591157057" duration="129000" />
+      <workItem from="1620654923523" duration="610000" />
     </task>
     <servers />
   </component>
